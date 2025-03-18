@@ -1,0 +1,14 @@
+
+.idea
+*.iml
+out
+gen
+
+nimcache/
+
+#Test
+testresults
+tests/**/*.exe
+tests/lexer/lexer_test
+tests/ast/ast_test
+tests/parser/parser_test
